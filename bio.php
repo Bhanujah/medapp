@@ -73,7 +73,7 @@ echo "Vous avez bien rentré vos données!";
 						</ul >
 								<p style="color:black">DR. JEAN SROUSSI<br></p>
 								
-							<div align="right" style="color:black">
+							<div style="color:black; text-align:right">
 								<?php echo $_POST['genre'];?>.<?php echo $_POST['nom'].' '.$_POST['prenom'];?><br>
 								<?php echo $_POST['adresse'];?><br>
 								<?php echo $_POST['codepostal'];?><br>

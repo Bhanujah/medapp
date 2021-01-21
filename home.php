@@ -18,8 +18,8 @@ if (!isset($_SESSION['username'])){
 
     <body>
         <nav style="height:80px">
-			<ul id="nav"><!--
-				--><li style="float:left"><a href="#"><img id="logo" src="logo.png" alt="logo"/></a></li>
+			<ul id="nav">
+				<li style="float:left"><a href="#"><img id="logo" src="logo.png" alt="logo"/></a></li>
 			</ul>
 		</nav>
         
