@@ -20,7 +20,13 @@ Donc ici, ca sera localhost/medapp/index.html
 
 > créez dans un deuxième temps une table qui s'intitule "mytable" pour la partie formulaire et modifications des données avec 10 colonnes: 
 
-dossier, genre, prenom étant la clé primaire, nom, secu, adresse, codepostal, medecin, contact et date. 
+dossier, genre, prenom étant la clé primaire, nom, secu, adresse, codepostal, medecin, contact et date.
+
+> Vous pourrez vous connecter à:
+
+login: Thiago
+
+mot de passe: vitrygtr
 
 ## PAGE D'ACCUEIL
 Cette page d'accueil dispose d'une partie avec une référence à la RGPD ainsi qu'un message de bienvenue aux utilisateurs avec un bouton menant vers la page d'inscription et de connexion.
