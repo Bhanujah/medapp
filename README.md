@@ -8,6 +8,10 @@ Afin de lancer le projet en local vous devez:
 > Lancer XAMPP Control Panel et "Start" Apache et MySQL.
 > Sur votre navigateur, écrire "localhost/@nomdudossiercontenantleprojet/index.html
 Donc ici, ca sera localhost/medapp/index.html
+> créez une nouvelle base de données qui s'intitule "userregistration" dans phpMyAdmin.
+> créer dans un premier temps une table qui s'intitule "usertable" pour la partie login/inscription avec 2 colonnes: name étant une clé primaire et password.
+> créez dans un deuxième temps une table qui s'intitule "mytable" pour la partie formulaire et modifications des données avec 10 colonnes: 
+dossier, genre, prenom étant la clé primaire, nom, secu, adresse, codepostal, medecin, contact et date. 
 
 ## PAGE D'ACCUEIL
 Cette page d'accueil dispose d'une partie avec une référence à la RGPD ainsi qu'un message de bienvenue aux utilisateurs avec un bouton menant vers la page d'inscription et de connexion.
