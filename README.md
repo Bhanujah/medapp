@@ -49,8 +49,11 @@ Il est également possible de se connecter. On retrouve toujours le logo en haut
 ## PAGE FORMULAIRE DE SAISIES ET MODIFICATION
 Cette page permet d'inscrire les données tels que le numéro du dossier, le genre, le nom de famille, le numéro de sécurité sociale, l'adresse, le code postal, le médecin traitant, la personne à contacter en cas d'urgence et enfin la date d'intervention. Le prénom est automatiquement le username transcris dans ce formulaire et ne devant pas changer.
 Ensuite, en bas s'affiche une liste avec l'ensemble des analyses réalisés et trois boutons:
+
 > Un bouton "modifier et enregistrer vos données" pour insérer les données insérées par l'utilisateur lorsqu'elle sont différentes de celles insérées avant.
+
 > D'autres boutons pour les analyses réalisées, enregistrer les modifications et afficher les résultats.
+
 C'est également sur cette page que l'utilisateur doit de connecter grâce au "se déconnecter" qui se trouve juste au-dessus de "Bonjour [nom de l'utilisateur].
 
 ## PAGE ANALYSE BIOCHIMIQUE
