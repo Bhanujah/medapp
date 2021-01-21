@@ -8,7 +8,7 @@ Afin de lancer le projet en local vous devez:
 
 > Mettre le dossier avec l'ensemble des fichiers du projet (donc ici medapp) dans htdocs, qui lui même se trouvera dans le dossier xampp.(C:\xampp\htdocs)
 
-> Lancer XAMPP Control Panel et "Start" Apache et MySQL.
+> Lancer XAMPP Control Panel et "Start" Apache et MySQL en appuyant sur le bouton "Stop".
 
 > Sur votre navigateur, écrire "localhost/@nomdudossiercontenantleprojet/index.html
 
